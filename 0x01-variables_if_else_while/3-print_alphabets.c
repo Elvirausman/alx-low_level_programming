@@ -7,13 +7,12 @@
 */
 int main(void)
 {
-char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLNNOPQRSTUVWXYZ";
-int i;
-
-for (i = 0; i < 52; i++)
-{
-putchar(alp[i]);
-}
-putchar('\n');
-return (0);
+	char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLNNOPQRSTUVWXYZ";
+		int i;
+		for (i = 0; i < 52; i++)
+		{
+			putchar(alp[i]);
+		}
+		putchar('\n');
+		return (0);
 }
