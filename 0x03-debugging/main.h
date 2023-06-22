@@ -1,4 +1,4 @@
-#ifndef main.h
+#ifndef MAIN_H
 #define main.h
 #include <stdio.h>
 
